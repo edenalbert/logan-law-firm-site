@@ -1,0 +1,377 @@
+{
+  "photos": [
+    {
+      "jpg": "public/images/lft-courthouse-2.jpg",
+      "webp": "public/images/lft-courthouse-2.webp",
+      "w": 2000,
+      "h": 1333
+    },
+    {
+      "jpg": "public/images/Front-of-cathederal-small.jpg",
+      "webp": "public/images/Front-of-cathederal-small.webp",
+      "w": 1800,
+      "h": 900
+    },
+    {
+      "jpg": "public/images/Greg-with-clients.jpg",
+      "webp": "public/images/Greg-with-clients.webp",
+      "w": 2000,
+      "h": 1500
+    },
+    {
+      "jpg": "public/images/Church---white---small-8x6-5-in.jpg",
+      "webp": "public/images/Church---white---small-8x6-5-in.webp",
+      "w": 2000,
+      "h": 1625
+    },
+    {
+      "jpg": "public/images/head-courthouse-with-sun.jpg",
+      "webp": "public/images/head-courthouse-with-sun.webp",
+      "w": 2000,
+      "h": 1500
+    },
+    {
+      "jpg": "public/images/LCG-Trees-3.jpg",
+      "webp": "public/images/LCG-Trees-3.webp",
+      "w": 2000,
+      "h": 1232
+    },
+    {
+      "jpg": "public/images/Greg-Logan-Headshot-Edit-3.jpg",
+      "webp": "public/images/Greg-Logan-Headshot-Edit-3.webp",
+      "w": 1500,
+      "h": 2100
+    },
+    {
+      "jpg": "public/images/Courthouse-collage.jpg",
+      "webp": "public/images/Courthouse-collage.webp",
+      "w": 2000,
+      "h": 1250
+    },
+    {
+      "jpg": "public/images/Downtown-LFT-sign.jpg",
+      "webp": "public/images/Downtown-LFT-sign.webp",
+      "w": 2000,
+      "h": 1000
+    },
+    {
+      "jpg": "public/images/church.jpg",
+      "webp": "public/images/church.webp",
+      "w": 2000,
+      "h": 1333
+    },
+    {
+      "jpg": "public/images/statue-LCG.jpg",
+      "webp": "public/images/statue-LCG.webp",
+      "w": 2000,
+      "h": 1333
+    },
+    {
+      "jpg": "public/images/St-Martin-Ville-Courthouse.jpg",
+      "webp": "public/images/St-Martin-Ville-Courthouse.webp",
+      "w": 2000,
+      "h": 1293
+    },
+    {
+      "jpg": "public/images/LFT-Courthouse.jpg",
+      "webp": "public/images/LFT-Courthouse.webp",
+      "w": 2000,
+      "h": 1497
+    },
+    {
+      "jpg": "public/images/126A8314-2.jpg",
+      "webp": "public/images/126A8314-2.webp",
+      "w": 2000,
+      "h": 1062
+    },
+    {
+      "jpg": "public/images/Abbeville-courthouse.jpg",
+      "webp": "public/images/Abbeville-courthouse.webp",
+      "w": 2000,
+      "h": 1013
+    },
+    {
+      "jpg": "public/images/abbeville-courthouse-with-clock.jpg",
+      "webp": "public/images/abbeville-courthouse-with-clock.webp",
+      "w": 2000,
+      "h": 1500
+    },
+    {
+      "jpg": "public/images/126A8325.jpg",
+      "webp": "public/images/126A8325.webp",
+      "w": 2000,
+      "h": 1333
+    }
+  ],
+  "logos": [
+    "public/images/Logan-Law-Firm_Logo-white-background.png",
+    "public/images/Logan-Law-Firm_Logo-white-background-1.png",
+    "public/images/Logan-Law-Firm_Logo.png",
+    "public/images/Logan-Law-Firm-column-white-background.png",
+    "public/images/Logan-Law-Firm-column-white-background-1.png",
+    "public/images/Logan-Law-Firm-column-white-background-2.png",
+    "public/images/Logan-Firm-Ipad-background.png",
+    "public/images/Logan-Law-Firm_Logo-white-backgound.png"
+  ],
+  "screens": [
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-5-54-52-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-5-54-52-PM.webp",
+      "w": 2000,
+      "h": 1013
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-6-03-06-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-6-03-06-PM.webp",
+      "w": 2000,
+      "h": 1012
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-6-04-45-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-6-04-45-PM.webp",
+      "w": 2000,
+      "h": 1008
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-5-56-06-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-5-56-06-PM.webp",
+      "w": 2000,
+      "h": 1002
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-6-05-04-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-6-05-04-PM.webp",
+      "w": 2000,
+      "h": 1005
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-5-56-18-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-5-56-18-PM.webp",
+      "w": 2000,
+      "h": 1011
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-5-52-15-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-5-52-15-PM.webp",
+      "w": 2000,
+      "h": 1011
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-5-55-11-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-5-55-11-PM.webp",
+      "w": 2000,
+      "h": 1012
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-5-55-03-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-5-55-03-PM.webp",
+      "w": 2000,
+      "h": 1008
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-6-03-16-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-6-03-16-PM.webp",
+      "w": 2000,
+      "h": 1008
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-6-04-12-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-6-04-12-PM.webp",
+      "w": 2000,
+      "h": 1008
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-6-04-28-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-6-04-28-PM.webp",
+      "w": 2000,
+      "h": 665
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-5-57-49-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-5-57-49-PM.webp",
+      "w": 1999,
+      "h": 997
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-6-04-36-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-6-04-36-PM.webp",
+      "w": 2000,
+      "h": 1001
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-5-57-41-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-5-57-41-PM.webp",
+      "w": 1999,
+      "h": 1014
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-5-53-50-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-5-53-50-PM.webp",
+      "w": 2000,
+      "h": 948
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-5-54-29-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-5-54-29-PM.webp",
+      "w": 2000,
+      "h": 1009
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-6-04-53-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-6-04-53-PM.webp",
+      "w": 1999,
+      "h": 1010
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-6-04-22-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-6-04-22-PM.webp",
+      "w": 2000,
+      "h": 944
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-5-53-23-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-5-53-23-PM.webp",
+      "w": 2000,
+      "h": 1007
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-5-55-33-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-5-55-33-PM.webp",
+      "w": 2000,
+      "h": 1006
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-6-05-59-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-6-05-59-PM.webp",
+      "w": 2000,
+      "h": 1008
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-6-05-33-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-6-05-33-PM.webp",
+      "w": 2000,
+      "h": 1009
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-5-53-02-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-5-53-02-PM.webp",
+      "w": 2000,
+      "h": 1006
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-5-53-57-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-5-53-57-PM.webp",
+      "w": 2000,
+      "h": 966
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-5-57-01-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-5-57-01-PM.webp",
+      "w": 2000,
+      "h": 1008
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-5-57-56-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-5-57-56-PM.webp",
+      "w": 2000,
+      "h": 1006
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-5-54-08-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-5-54-08-PM.webp",
+      "w": 2000,
+      "h": 887
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-5-54-16-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-5-54-16-PM.webp",
+      "w": 2000,
+      "h": 1011
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-6-04-01-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-6-04-01-PM.webp",
+      "w": 2000,
+      "h": 1008
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-5-55-57-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-5-55-57-PM.webp",
+      "w": 1782,
+      "h": 1412
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-6-05-52-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-6-05-52-PM.webp",
+      "w": 2000,
+      "h": 1000
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-5-56-50-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-5-56-50-PM.webp",
+      "w": 2000,
+      "h": 1009
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-5-53-32-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-5-53-32-PM.webp",
+      "w": 2000,
+      "h": 1015
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-6-03-25-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-6-03-25-PM.webp",
+      "w": 2000,
+      "h": 1005
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-6-05-44-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-6-05-44-PM.webp",
+      "w": 2000,
+      "h": 1014
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-5-55-41-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-5-55-41-PM.webp",
+      "w": 2000,
+      "h": 1009
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-6-05-13-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-6-05-13-PM.webp",
+      "w": 2000,
+      "h": 1009
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-5-55-20-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-5-55-20-PM.webp",
+      "w": 2000,
+      "h": 1002
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-5-57-17-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-5-57-17-PM.webp",
+      "w": 1740,
+      "h": 1434
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-5-53-41-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-5-53-41-PM.webp",
+      "w": 2000,
+      "h": 988
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-5-54-38-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-5-54-38-PM.webp",
+      "w": 2000,
+      "h": 650
+    },
+    {
+      "jpg": "public/images/Screen-Shot-2022-05-23-at-5-57-33-PM.jpg",
+      "webp": "public/images/Screen-Shot-2022-05-23-at-5-57-33-PM.webp",
+      "w": 2000,
+      "h": 1006
+    }
+  ],
+  "suggested": []
+}
