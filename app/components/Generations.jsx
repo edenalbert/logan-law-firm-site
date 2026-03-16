@@ -32,7 +32,7 @@ export default function Generations() {
       blurb: "Began practicing Law in 1922 afer becoming a Barred Attoney in the state of Louisiana.",
     },
     {
-      img: "/images/2ndgen.jpg",
+      img: "/images/2ndGen.jpg",
       title: "William E. Logan, Jr",
       years: "Second Generation",
       blurb: "Expanded practice and reputation for excellence.",

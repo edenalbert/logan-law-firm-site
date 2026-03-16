@@ -114,7 +114,7 @@ export default function LoganStarterPage() {
     {/* Right image */}
     <div className="relative">
       <img
-        src="/images/Church---white---small-8x6-5-in.jpg"  // ⬅️ replace with your preferred photo
+        src="/images/Church---white---small-8x6-5-in.jpg"  
         alt="Historic architecture against a blue sky"
         className="h-full w-full object-cover"
       />
