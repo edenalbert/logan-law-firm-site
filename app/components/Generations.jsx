@@ -29,7 +29,7 @@ export default function Generations() {
       img: "/images/1gen.png",
       title: "William E. Logan",
       years: "First Generation",
-      blurb: "Began practicing Law in 1922 afer becoming a Barred Attoney in the state of Louisiana.",
+      blurb: "Began practicing Law in 1922 after becoming a Barred Attoney in the state of Louisiana.",
     },
     {
       img: "/images/2ndGen.jpg",
