@@ -55,13 +55,14 @@ export default function CredentialsShowcase() {
 
         {/* long paragraph like the example */}
         <p className="mt-6 text-base sm:text-lg leading-relaxed sm:leading-8">
-          For four generations, families have turned to The Logan Law Firm to protect what matters most. Our legacy is built on trust that our cleints grant us with for their 
-          most cherieshed assets.
-          Our team is vetted by the Louisana Board of Legal Specifialzaion, a division of the Louisana State Bar Association, and recognized by industry leaders 
+          For four generations, families have turned to The Logan Law Firm to protect what matters most. Our legacy is built on trust that our clients grant us with for their 
+          most cherished assets.
+          Our team is vetted by the Louisiana Board of Legal Specialization, a division of the Louisiana State Bar Association, and recognized by industry leaders
           like Martindale-Hubbell, Avvo, and Super Lawyers.
           We combine seasoned judgment with forward-thinking solutions proven to safeguard your estate, resolve disputes,
           and ensure your legacy endures. At The Logan Law Firm, your family's future is our family's commitment. 
         </p>
+
 
         {/* credential screenshots row */}
        {/* <div className="mt-10 flex flex-wrap items-center justify-center gap-6 sm:gap-10">
